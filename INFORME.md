@@ -1,12 +1,19 @@
-Nombre y apellido 
+## Nombre y apellido 
 Integrante 1: 
 Integrante 2:
 Integrante 3:
 
 
-Descripción ejercicio 1: 
+## Ejercicio 1
+Descripción:
+
+Justificación instrucciones ARMv8:
 
 
-Descripción ejercicio 2:
+## Ejercicio 2
+Descripción:
+
+Justificación instrucciones ARMv8:
+
 
 
